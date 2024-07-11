@@ -44,3 +44,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+Feito em conjunto com @maybrito e <a href="#" target="_blank">Rocketseat</a>
