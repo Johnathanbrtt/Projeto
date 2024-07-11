@@ -43,5 +43,3 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito em conjunto com @maybrito e <a href="#" target="_blank">Rocketseat</a>
